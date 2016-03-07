@@ -5,7 +5,7 @@ require("./Log/ActionLogger");
 
 export default class App extends React.Component<{}, {}> {
     render(): React.ReactElement<{}> {
-        return  <div>test
+        return  <div>
                     <ContentPage />
                 </div>;
     }
