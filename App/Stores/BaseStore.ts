@@ -1,5 +1,3 @@
-/// <reference path="../../typings/tsd.d.ts" />
-
 export default class BaseStore {
 
     private listeners: Array<() => void> = null;

@@ -1,5 +1,3 @@
-/// <reference path="../../../typings/tsd.d.ts" />
-
 import * as React from "react";
 import ContentHeader from "./ContentHeader/ContentHeader";
 import ContentBody from "./ContentBody/ContentBody";
